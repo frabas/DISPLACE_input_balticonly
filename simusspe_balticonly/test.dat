@@ -1,0 +1,32 @@
+# dyn_alloc_sce
+baseline 
+# dyn_pop_sce
+baseline 
+# biolsce
+1
+# a_graph
+2
+# nrow_coord
+10606
+# nrow_graph
+63758
+# a_port
+0
+# grid res km
+4
+# is_individual_vessel_quotas
+0
+# Go Fishing DTree
+
+# Choose Ground DTree
+
+# Start Fishing DTree
+
+# Change Ground DTree
+
+# Stop Fishing DTree
+
+# Change Port DTree
+
+# Use Dtrees
+0

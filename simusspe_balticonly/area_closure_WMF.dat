@@ -1,0 +1,38 @@
+# dyn_alloc_sce
+focus_on_high_profit_grounds area_closure
+# dyn_pop_sce
+baseline 
+# biolsce
+1
+# Frequency to apply growth (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
+4
+# Frequency to redispatch the pop (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
+3
+# a_graph
+111
+# nrow_coord
+13645
+# nrow_graph
+104640
+# a_port
+10449
+# grid res km
+2.5
+# individual vessel quotas
+0
+#  check all stocks before going fishing (otherwise, explicit pops only)
+0
+# GoFishing
+
+# ChooseGround
+
+# StartGround
+
+# ChangeGround
+
+# StopFishing
+
+# ChangePort
+
+# Use Dtrees
+0
